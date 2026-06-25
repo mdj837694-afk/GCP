@@ -6,7 +6,7 @@
       "protocol": "vless",
       "settings": {
         "clients": [
-          { "password": "BD-FREE-INTERNET" }
+          { "password": "BD-FREE-INTERNET-MD-JIBON" }
         ],
         "fallbacks": [
           { "dest": 8081 }
